@@ -1,6 +1,6 @@
 from random import randint
 
-from colorama import Fore #pip instal colorama terminālī lai strādātu krāsas
+from colorama import Fore #pip install colorama terminālī lai strādātu krāsas
 meginajumi = 10
 cipars = randint(1, 100)
 print(Fore.MAGENTA + "Mini skaitli no 1 līdz 100")
